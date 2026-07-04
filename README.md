@@ -184,15 +184,8 @@ python main.py
 ## 🔮 Future Enhancements
 
 - Background Service
-
- 
 - Portfolio Analytics
 - Multi-Broker Support
-- Cloud Deployment
-- Web Dashboard
-- Mobile Application
-- Paper Trading Mode
-- Backtesting Engine
 - Performance Reports
 
 ---
