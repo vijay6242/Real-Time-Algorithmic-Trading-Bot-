@@ -4,7 +4,8 @@ A production-ready **Algorithmic Trading Bot** built with **Python** and the **U
 
 ---
 
-https://github.com/user-attachments/assets/260c0fa8-7f49-4f78-90c4-6f36a0efa9c2
+https://github.com/user-attachments/assets/14b87273-f655-45cf-bcc1-bee7f3293d90
+
 
 
 ## 🚀 Features
@@ -121,28 +122,6 @@ Database & Logs
 
 ---
 
-## 📦 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/algo-trading-bot.git
-```
-
-Navigate to the project
-
-```bash
-cd algo-trading-bot
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🔑 Configuration
 
 Create a `.env` file
@@ -204,10 +183,9 @@ python main.py
 
 ## 🔮 Future Enhancements
 
-- AI-Based Trading Strategies
-- Machine Learning Signal Generation
-- Telegram Notifications
-- WhatsApp Alerts
+- Background Service
+
+ 
 - Portfolio Analytics
 - Multi-Broker Support
 - Cloud Deployment
@@ -219,28 +197,4 @@ python main.py
 
 ---
 
-## ⚠️ Disclaimer
 
-This project is intended for **educational and research purposes**. Algorithmic trading involves financial risk, and past performance does not guarantee future results. Always test strategies thoroughly in paper trading or a sandbox environment before using real capital. The author is not responsible for any financial losses resulting from the use of this software.
-
----
-
-## 👨‍💻 Author
-
-**Ganji Vijay Kumar**
-
-B.Tech – Data Science & Engineering
-
-**Interests**
-- Algorithmic Trading
-- Quantitative Finance
-- Python Development
-- Machine Learning
-- Data Science
-- Financial Analytics
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a **⭐ Star** on GitHub. Contributions, suggestions, and feature requests are always welcome.
